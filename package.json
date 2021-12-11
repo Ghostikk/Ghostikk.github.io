@@ -1,0 +1,30 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "Start page for taxi website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghostikk/Uber_udemy.git"
+  },
+  "author": "Vladimir Seledkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghostikk/Uber_udemy/issues"
+  },
+  "homepage": "https://github.com/Ghostikk/Uber_udemy#readme",
+  "devDependencies": {
+    "clean-css": "^5.2.2",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "browser-sync": "^2.27.7",
+    "gulp-sass-glob": "^1.1.0"
+  }
+}
